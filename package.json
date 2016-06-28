@@ -4,7 +4,8 @@
   "description": "Cocktail Machine Webpage",
   "main": "gulpfile.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "deploy": "gulp deploy"
   },
   "repository": {
     "type": "git",
