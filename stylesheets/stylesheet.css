@@ -261,16 +261,16 @@ h3 {
 }
 
 .gallery {
-  width: 640px;
+  text-align: center;
+  width: 100%;
+  max-width: 660px;
   margin: 0 auto;
   padding: 5px;
 }
 
 .gallery > div {
-  position: relative;
-  float: left;
+  display: inline-block;
   padding: 5px;
-  overflow: visible;
 }
 
 .gallery > div > img {
